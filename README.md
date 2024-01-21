@@ -11,10 +11,6 @@ Welcome to the UniRide System Git repository! This repository acts as the centra
 - **ProjectProposal.pdf:** Outlines the initial project proposal, providing an overview of the UniRide system, its objectives, and expected outcomes.
 - **SRS_Document.pdf:** The Software Requirements Specification (SRS) document detailing the functional and non-functional requirements of the UniRide system.
 
-### Source Code:
-
-- The source code directory contains the entire codebase for the UniRide system, organized into modules for clarity and ease of development.
-
 ### Project Management:
 
 - **GanttChart.pdf:** Visualizes the project timeline, including milestones and deadlines, providing a snapshot of project progress.
