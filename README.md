@@ -18,12 +18,10 @@ Welcome to the UniRide System Git repository! This repository acts as the centra
 ### Project Management:
 
 - **GanttChart.pdf:** Visualizes the project timeline, including milestones and deadlines, providing a snapshot of project progress.
-- **MeetingMinutes:** Directory for records of project team meetings, capturing discussions, decisions, and action items.
 
 ### Presentations:
 
 - **ProjectKickoff_Presentation.pdf:** Introduces the UniRide project, outlining its purpose, goals, and expected impact.
-- **MidTerm_Presentation.pdf:** A mid-term progress presentation highlighting milestones, challenges, and strategies for moving forward.
 - **FinalPresentation.pdf:** The conclusive presentation summarizing the completed UniRide system, its features, and a demonstration of its functionality.
 
 ## How to Contribute:
